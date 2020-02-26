@@ -93,8 +93,7 @@ using namespace std;
         	fflush(stdin); 
 			
     		}					
-		}
-		
+		}	
 		system("pause");
 		return 0;
 	}
